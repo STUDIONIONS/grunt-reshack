@@ -1,0 +1,25 @@
+{
+	"name": "grunt-reshack",
+	"version": "1.0.0",
+	"description": "",
+	"main": "Gruntfile.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/STUDIONIONS/grunt-reshack.git"
+	},
+	"author": "ProjectSoft <projectsoft2009@yandex.ru>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/STUDIONIONS/grunt-reshack/issues"
+	},
+	"homepage": "https://github.com/STUDIONIONS/grunt-reshack#readme",
+	"bin": {
+		"winreshack": "./lib/WinResHack"
+  	},
+	"dependencies": {
+		"grunt": "^1.2.1"
+	}
+}

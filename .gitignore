@@ -1,0 +1,7 @@
+node_modules/
+log/
+test/
+*.txt
+*.log
+*.ini
+*-lock.json
