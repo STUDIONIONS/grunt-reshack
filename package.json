@@ -16,9 +16,6 @@
 		"url": "https://github.com/STUDIONIONS/grunt-reshack/issues"
 	},
 	"homepage": "https://github.com/STUDIONIONS/grunt-reshack#readme",
-	"bin": {
-		"winreshack": "./lib/WinResHack"
-  	},
 	"dependencies": {
 		"grunt": "^1.2.1"
 	}
